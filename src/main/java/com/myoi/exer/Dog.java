@@ -23,6 +23,7 @@ class DogTest{
     public static void main(String[] args) {
 
         System.out.println("hot-fix test");
+        System.out.println("hot-fix test 2");
         Dog dog=new Dog(){
             @Override
             public void eat() {
