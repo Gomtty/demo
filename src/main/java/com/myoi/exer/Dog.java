@@ -29,6 +29,7 @@ class DogTest{
             }
         };
         dog.eat();
+        dog.eat();
 
         Walk walk=new Walk(){
             @Override
