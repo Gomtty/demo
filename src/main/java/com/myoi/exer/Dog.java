@@ -31,6 +31,7 @@ class DogTest{
         dog.eat();
         dog.eat();
         System.out.println("hot-fix");
+        System.out.println("master test");
 
         Walk walk=new Walk(){
             @Override
