@@ -30,6 +30,7 @@ class DogTest{
         };
         dog.eat();
         dog.eat();
+        System.out.println("hot-fix");
 
         Walk walk=new Walk(){
             @Override
